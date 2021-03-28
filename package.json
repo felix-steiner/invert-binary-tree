@@ -1,0 +1,19 @@
+{
+  "name": "invert-binary-tree",
+  "version": "1.0.0",
+  "description": "Invert a binary tree with Typescript.",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "algorithm"
+  ],
+  "author": "Felix Steiner",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
