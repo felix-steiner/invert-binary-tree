@@ -1,5 +1,5 @@
 # How to invert a binary tree
-This project shows how easy it is to revert a binary tree using Typescript.
+This project shows how easy it is to invert a binary tree using Typescript.
 
 ## Getting Started 🚀
 1. Open a terminal and clone the repository
